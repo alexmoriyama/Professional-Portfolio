@@ -10,7 +10,7 @@
 
 ![Attached is a screenshot of the portfolio](Images/Professional%20Portfolio%20Screenshot.png)
 
-(file:///C:/Users/alex-/code/Professional-Portfolio/index.html) This is the link for the deployed URL for my project.
+https://github.com/alexmoriyama/Professional-Portfolio.git This is the link for the deployed URL for my project.
 
  Some of the features of this website include:
  
